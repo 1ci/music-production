@@ -41,7 +41,7 @@ _Control transients, sudden peaks and everything else to do with volume._
 * Dynamic EQ - _side-chained multiband compressor_
 * Volume Envelope/LFOTool - _used for sidechaining and creative purposes_
 
-## Modulate and enhance the good parts
+## Modulate and enhance the good parts to taste
 _Give spaciousness, brightness, interesting artifacts, harmonies, modulation and processing to sound to enhance the listener's experience._
 * Delay - _give echo characteristics_
 * Reverb - _simulate an ambient space_
