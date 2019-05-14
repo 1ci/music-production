@@ -6,10 +6,10 @@
 >3. Depth = Volume & Ambience
 
 # Use effects to:
-* Analyze the sound
-* Filter out the junk
-* Balance the dynamics
-* Modulate and enhance the good parts to taste
+* [Analyze the sound](#analyze-the-sound)
+* [Filter out the junk](#filter-out-the-junk)
+* [Balance the dynamics](#balance-the-dynamics)
+* [Modulate and enhance the good parts to taste](#modulate-and-enhance-the-good-parts-to-taste)
 
 ## Analyze the sound
 _Figure out where, how and why it needs to sit in the mix._
