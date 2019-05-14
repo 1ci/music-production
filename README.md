@@ -49,10 +49,9 @@ _Give spaciousness, brightness, interesting artifacts, harmonies, modulation and
 * Saturation - _introduce a subtle set of harmonics to give warmth and presence. run hot to increase perceived volume_
 * Harmonizer - _generates perfect fifths_
 * Exciter - _pre-set MB compressor, EQ, saturator and probably a couple of other things into one meant to brighten up your sound_
-* Chorus
-* Flanger
-* Phaser
-* Unison
+* Chorus - _"occurs when individual sounds with approximately the same time, and very similar pitches converge and are perceived as one"_
+* Flanger - _"Flanging is an audio effect produced by mixing two identical signals together, one signal delayed by a small and gradually changing period, usually smaller than 20 milliseconds"_
+* Phaser - _"A phaser is an electronic sound processor used to filter a signal by creating a series of peaks and troughs in the frequency spectrum. The position of the peaks and troughs of the waveform being affected is typically modulated so that they vary over time, creating a sweeping effect."_
 * Hyper-Dimension
 * Pitcher
 * Pitch Shifter
