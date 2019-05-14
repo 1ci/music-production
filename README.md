@@ -22,7 +22,7 @@ _Figure out where, how and why it needs to sit in the mix._
 ## Filter out the junk
 _Get rid of what you don't (want to) / **can't** hear.
 Control resonant peaks / unpleasant frequencies.
-Allow for space for other sounds to not clutter up the mix._
+Allow for space for other sounds so that they don't clash and clutter up the mix._
 * Equalizer - _controls the volume of distributed frequencies_
   * Mid EQ - _in the center of a stereo image (mono)_
   * Side EQ - _in the sides of the stereo field. eliminate phasing issues by high-passing._
