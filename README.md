@@ -12,6 +12,7 @@
 * [Romplers](#romplers)
 * [Samplers](#samplers)
 * [Sample Players](#sample-players)
+* [Synthesizers](#synthesizers)
 * [Midi & Utilities](#midi-and-utilities)
 
 # Use [effects](#effects) to:
