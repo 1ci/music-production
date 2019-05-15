@@ -23,7 +23,7 @@
 * [Modulate and enhance the good parts to taste](#modulate-and-enhance-the-good-parts-to-taste)
 
 ## Analyze the sound
-![Image of a spectrum analyzer](https://hostr.co/file/wWhFRPIYfNWi/spectrum-analyzers-display.jpg)
+![Image of a spectrum analyzer](https://hostr.co/file/NNbPRVs7K0FK/voxengo.jpg)
 >_Figure out where, how and why it needs to sit in the mix._
 * [Spectrum Analyzer](#spectrum-analyzers)
 * [Stereo Imager](#stereo-imagers)
