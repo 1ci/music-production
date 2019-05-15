@@ -27,7 +27,7 @@
 * Equalizer - _controls the volume of distributed frequencies_
   * Mid EQ - _in the center of a stereo image (mono)_
   * Side EQ - _in the sides of the stereo field. eliminate phasing issues by high-passing._
-* Filter - _a form of pre-set EQ with limited and more focused control_
+* Filter - _a form of pre-set EQ with more limited and focused control_
 
 ## Balance the dynamics
 ![Image of a compressor](https://hostr.co/file/1hDVQgRTfTNN/comp.png)
