@@ -75,11 +75,16 @@
   * Voice Changer - _a type of formant shifter? i haven't found any vsts yet but it would be cool to look into_
   
 # Generators
-### Romplers - _"A rompler is an electronic music instrument that plays pre-fabricated sounds based on audio samples. In contrast to samplers, romplers do not record audio and have limited or no capability for generating original sounds. The term rompler is a portmanteau of the terms ROM and sampler"_
-### Samplers - _can load, play and mess with audio files. usually have built-in ADSR and FX modules_
-### Sample Players - _libraries of sampled instruments_
-### Synthesizers - _"an electronic musical instrument that generates audio signals that may be converted to sound. Synthesizers may imitate traditional musical instruments such as piano, flute, vocals, or natural sounds such as ocean waves; or generate novel electronic timbres"_
-### Midi - _drum sequencers, arpeggiators, chord builders, etc_
+### Romplers
+> _"A rompler is an electronic music instrument that plays pre-fabricated sounds based on audio samples. In contrast to samplers, romplers do not record audio and have limited or no capability for generating original sounds. The term rompler is a portmanteau of the terms ROM and sampler"_
+### Samplers
+> _can load, play and mess with audio files. usually have built-in ADSR and FX modules_
+### Sample Players
+> _libraries of sampled instruments_
+### Synthesizers
+> _"an electronic musical instrument that generates audio signals that may be converted to sound. Synthesizers may imitate traditional musical instruments such as piano, flute, vocals, or natural sounds such as ocean waves; or generate novel electronic timbres"_
+### Midi
+> _drum sequencers, arpeggiators, chord builders, etc_
 
 # Effects
 ### Spectrum Analyzers
