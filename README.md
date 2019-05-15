@@ -4,7 +4,7 @@
 >_Think of sound as 3-dimensional:_
 >1. _Height = Frequency Coverage (Timbre/Harmonics)_
 >2. _Width = Stereo Field & Panning_
->3. _Depth = Volume & Ambience_
+>3. _Depth = Volume/Amplitude & Ambience_
 
 # Use effects to:
 * [Analyze the sound](#analyze-the-sound)
