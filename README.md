@@ -77,7 +77,7 @@
   
 # Generators
 ### Raw Sounds
-> _drum kits, samples, loops, fx, noise, vox, ad libs_
+> _drum kits, samples, loops, fx, noise, vox, ad libs, dogs, cats_
 ### Sample Managers
 > _makes your entire sample library searchable and more organized. might provide access to a cloud service of samples_
 ### Romplers
