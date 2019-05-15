@@ -45,7 +45,7 @@
 ![Image of FL Studio's Edison](https://hostr.co/file/TVgiClfdKHOn/FL64_Xpr5ErVrly.png)
 >_Fade in/out. Declick in/out. Normalize. Remove noise. Blur._
 * Audio Editors - _tinker with audio files_
-  * Pitch Correction (Melodyne, Newtone)
+  * Pitch Correction (Melodyne, Newtone) - _fix any problems with vocals_
 
 ## Balance the dynamics
 ![Image of a compressor](https://hostr.co/file/1hDVQgRTfTNN/comp.png)
