@@ -1,4 +1,5 @@
 # Music Production Tools & Best Practices
+![Image of mixing in stereo](https://hostr.co/file/KibZkoHqIUkJ/blog_studio_basics_mixing_stereo_hero.jpg)
 
 >Think of sound as 3-dimensional:
 >1. Height = Frequency Coverage (Timbre/Harmonics)
@@ -12,7 +13,8 @@
 * [Modulate and enhance the good parts to taste](#modulate-and-enhance-the-good-parts-to-taste)
 
 ## Analyze the sound
-_Figure out where, how and why it needs to sit in the mix._
+![Image of a spectrum analyzer](https://hostr.co/file/wWhFRPIYfNWi/spectrum-analyzers-display.jpg)
+>_Figure out where, how and why it needs to sit in the mix._
 * Spectrum Analyzer
 * Stereo Imager
 * Loudness Meter
@@ -20,16 +22,16 @@ _Figure out where, how and why it needs to sit in the mix._
 * Vectorscope
 
 ## Filter out the junk
-_Get rid of what you don't (want to) / **can't** hear.
-Control resonant peaks / unpleasant frequencies.
-Allow for space for other sounds so that they don't clash and clutter up the mix._
+![Image of Fruity Param EQ2](https://hostr.co/file/a7BSCMEHMAIR/parameq2.png)
+>_Get rid of what you don't (want to) / **can't** hear. Control resonant peaks / unpleasant frequencies. Allow for space for other sounds so that they don't clash and clutter up the mix._
 * Equalizer - _controls the volume of distributed frequencies_
   * Mid EQ - _in the center of a stereo image (mono)_
   * Side EQ - _in the sides of the stereo field. eliminate phasing issues by high-passing._
 * Filter - _a form of pre-set EQ with limited and more focused control_
 
 ## Balance the dynamics
-_Control transients, sudden peaks and everything else to do with volume._
+![Image of a compressor](https://hostr.co/file/1hDVQgRTfTNN/comp.png)
+>_Control transients, sudden peaks and anything to do with volume._
 * Compressor - _automated volume control triggered by the volume of any frequency fed into it_
 * Multiband Compressor - _automated volume control per band triggered by the volume of frequencies in that band_
 * De-Esser - _eliminates the excessive prominence of sibilant consonants, such as the sounds normally represented in English by "s", "z", "ch", "j" and "sh". essentially a compressor with a band in the high region of the frequency spectrum_
