@@ -15,20 +15,20 @@
 ## Analyze the sound
 ![Image of a spectrum analyzer](https://hostr.co/file/wWhFRPIYfNWi/spectrum-analyzers-display.jpg)
 >_Figure out where, how and why it needs to sit in the mix._
-* Spectrum Analyzer
-* Stereo Imager
-* Loudness Meter
-* Oscilloscope
-* Vectorscope
+* [Spectrum Analyzer](#spectrum-analyzers)
+* [Stereo Imager](#stereo-imagers)
+* [Loudness Meter](#loudness-meters)
+* [Oscilloscope](#oscilloscopes)
+* [Vectorscope](#vectorscopes)
 
 ## Filter out the junk
 ![Image of Fruity Param EQ2](https://hostr.co/file/a7BSCMEHMAIR/parameq2.png)
 >_Get rid of what you don't (want to) / **can't** hear. Control resonant peaks / unpleasant frequencies. Allow for space for other sounds so that they don't clash and clutter up the mix._
-* Equalizer - _controls the volume of distributed frequencies_
+* [Equalizer](#equalizers) - _controls the volume of distributed frequencies_
   * Mid EQ - _in the center of a stereo image (mono)_
   * Side EQ - _in the sides of the stereo field. eliminate phasing issues by high-passing._
-* Filter - _a form of pre-set EQ with more limited and focused control_
-* Noise Filter - _can build noise profiles and subtract noise from the signal. some plugins such as ReaFIR can do it in realtime_
+* [Filter](#filters) - _a form of pre-set EQ with more limited and focused control_
+* [Noise Filter](#noise-filters) - _can build noise profiles and subtract noise from the signal. some plugins such as ReaFIR can do it in realtime_
 
 ## Balance the dynamics
 ![Image of a compressor](https://hostr.co/file/1hDVQgRTfTNN/comp.png)
@@ -72,3 +72,14 @@
   * Vinyl Crackler - _makes your sound more lo-fi and vintage_
   * Voice Changer - _a type of formant shifter? i haven't found any vsts yet but it would be cool to look into_
   
+# Effects
+### Spectrum Analyzers
+### Stereo Imagers
+### Loudness Meters
+### Oscilloscopes
+### Vectorscope
+
+### Equalizers
+### Filters
+### Noise Filters
+
