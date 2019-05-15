@@ -12,7 +12,7 @@
 * [Romplers](#romplers)
 * [Samplers](#samplers)
 * [Sample Players](#sample-players)
-* [Midi & Utilities](#midi-&-utilities)
+* [Midi & Utilities](#midi-and-utilities)
 
 # Use [effects](#effects) to:
 * [Analyze the sound](#analyze-the-sound)
@@ -94,7 +94,7 @@
 > _libraries of sampled instruments_
 ### Synthesizers
 > _"an electronic musical instrument that generates audio signals that may be converted to sound. Synthesizers may imitate traditional musical instruments such as piano, flute, vocals, or natural sounds such as ocean waves; or generate novel electronic timbres"_
-### Midi & Utilities
+### Midi and Utilities
 > _drum sequencers, arpeggiators, chord builders, controllers, etc_
 
 # Effects
