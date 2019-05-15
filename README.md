@@ -68,5 +68,5 @@
 * Autotune - _auto tunes vocals/sound to the closest pitch of notes in a selected scale_
 * Vocoder - _"synthesizes a modulator (usually a voice) in the left channel of a stereo track with a carrier wave in the right channel to produce a modified version of the left channel"_
 * Other/Multi-FX
-  * Vinyl Crackler
-  * Voice Changer
+  * Vinyl Crackler - _makes your sound more lo-fi and vintage_
+  * Voice Changer - _a type of formant shifter? i haven't found any vsts yet but it would be cool to look into_
