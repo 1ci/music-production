@@ -73,6 +73,7 @@
   * Time/Pitch/Volume Modulators - _Gross Beat, Half-time_
   * Vinyl Crackler - _makes your sound more lo-fi and vintage_
   * Voice Changer - _a type of formant shifter? i haven't found any vsts yet but it would be cool to look into_
+  * Utilities - _envelopes, LFO, XYZ, peak controllers_
   
 # Generators
 ### Raw Sounds
@@ -87,8 +88,8 @@
 > _libraries of sampled instruments_
 ### Synthesizers
 > _"an electronic musical instrument that generates audio signals that may be converted to sound. Synthesizers may imitate traditional musical instruments such as piano, flute, vocals, or natural sounds such as ocean waves; or generate novel electronic timbres"_
-### Midi
-> _drum sequencers, arpeggiators, chord builders, etc_
+### Midi & Utilities
+> _drum sequencers, arpeggiators, chord builders, controllers, etc_
 
 # Effects
 ### Spectrum Analyzers
