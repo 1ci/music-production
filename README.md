@@ -37,6 +37,7 @@
 * [Equalizer](#equalizers) - _controls the volume of distributed frequencies_
   * Mid EQ - _in the center of a stereo image (mono)_
   * Side EQ - _in the sides of the stereo field. eliminate phasing issues by high-passing._
+  * Regular vs Linear Phase EQ - _"Linear-phase EQ is essentially a highly-accurate, “surgical” EQ. Regular EQ's have phase shift between the different bands"_
 * [Filter](#filters) - _a form of pre-set EQ with more limited and focused control_
 * [Noise Filter](#noise-filters) - _can build noise profiles and subtract noise from the signal. some plugins such as ReaFIR can do it in realtime_
 
