@@ -83,8 +83,10 @@
 > _libraries of sampled instruments_
 ### Synthesizers
 > _"an electronic musical instrument that generates audio signals that may be converted to sound. Synthesizers may imitate traditional musical instruments such as piano, flute, vocals, or natural sounds such as ocean waves; or generate novel electronic timbres"_
-### Midi
+### MIDI
 > _drum sequencers, arpeggiators, chord builders, etc_
+### Drum Kits & Samples
+> _raw sound_
 
 # Effects
 ### Spectrum Analyzers
