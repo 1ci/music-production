@@ -18,6 +18,7 @@
 # Use [effects](#effects) to:
 * [Analyze the sound](#analyze-the-sound)
 * [Filter out the junk](#filter-out-the-junk)
+* [Make corrections](#make-corrections)
 * [Balance the dynamics](#balance-the-dynamics)
 * [Modulate and enhance the good parts to taste](#modulate-and-enhance-the-good-parts-to-taste)
 
@@ -38,6 +39,12 @@
   * Side EQ - _in the sides of the stereo field. eliminate phasing issues by high-passing._
 * [Filter](#filters) - _a form of pre-set EQ with more limited and focused control_
 * [Noise Filter](#noise-filters) - _can build noise profiles and subtract noise from the signal. some plugins such as ReaFIR can do it in realtime_
+
+## Make corrections
+![Image of FL Studio's Edison](https://hostr.co/file/TVgiClfdKHOn/FL64_Xpr5ErVrly.png)
+>_Fade in/out. Declick in/out. Normalize. Reverse. Blur. Fine-pitch corrections. Any edits on a small scale.
+* Audio Editors - _tinker with audio files_
+  * Pitch Correction (Melodyne, Newtone)
 
 ## Balance the dynamics
 ![Image of a compressor](https://hostr.co/file/1hDVQgRTfTNN/comp.png)
