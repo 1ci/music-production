@@ -1,4 +1,4 @@
-# Music Production Tools & Best Practices
+# Ici's Music Production Tools
 ![Image of mixing in stereo](https://hostr.co/file/KibZkoHqIUkJ/blog_studio_basics_mixing_stereo_hero.jpg)
 
 >_Think of sound as 3-dimensional:_
@@ -33,16 +33,16 @@
 ## Balance the dynamics
 ![Image of a compressor](https://hostr.co/file/1hDVQgRTfTNN/comp.png)
 >_Control transients, sudden peaks and anything to do with volume._
-* Compressor - _automated volume control triggered by the volume of any frequency fed into it_
-* Multiband Compressor - _automated volume control per band triggered by the volume of frequencies in that band_
-* De-Esser - _eliminates the excessive prominence of sibilant consonants, such as the sounds normally represented in English by "s", "z", "ch", "j" and "sh". essentially a compressor with a band in the high region of the frequency spectrum_
-* Limiter - _a compressor with an infinite ratio setting. sound cannot get louder past the set threshold/ceiling_
-* Soft Clipper - _like a limiter but hard blocks sound with a softer curve minimizing distortion. peaks get rounded off instead of brick wall square-ified_
-* Transient Processor - _controls the volume of transients of very short sounds like drum samples. it can compress or expand to make a drum punchier or fuller_
-* Expander - _an inverse compressor. expands the volume when sound hits its set threshold._
-* Noise Gate - _allows for sound to come through only if its volume surpasses the set threshold_
-* Dynamic EQ - _side-chained multiband compressor_
-* Volume Envelope/LFOTool - _used for sidechaining and creative purposes_
+* [Compressor](#compressors) - _automated volume control triggered by the volume of any frequency fed into it_
+* [Multiband Compressor](#multiband-compressors) - _automated volume control per band triggered by the volume of frequencies in that band_
+* [De-Esser](#de-essers) - _eliminates the excessive prominence of sibilant consonants, such as the sounds normally represented in English by "s", "z", "ch", "j" and "sh". essentially a compressor with a band in the high region of the frequency spectrum_
+* [Limiter](#limiters) - _a compressor with an infinite ratio setting. sound cannot get louder past the set threshold/ceiling_
+* [Soft Clipper](#soft-clippers) - _like a limiter but hard blocks sound with a softer curve minimizing distortion. peaks get rounded off instead of brick wall square-ified_
+* [Transient Processor](#transient-processors) - _controls the volume of transients of very short sounds like drum samples. it can compress or expand to make a drum punchier or fuller_
+* [Expander](#expanders) - _an inverse compressor. expands the volume when sound hits its set threshold._
+* [Noise Gate](#noise-gates) - _allows for sound to come through only if its volume surpasses the set threshold_
+* [Dynamic EQ](#dynamic-eqs) - _side-chained multiband compressor_
+* [Volume Envelope or LFO Tools](#volume-envelope-or-lfo-tools) - _used for sidechaining and creative purposes_
 
 ## Modulate and enhance the good parts to taste
 ![Image of Fruity Reverb 2](https://hostr.co/file/RqAXi93j2QEj/reverb2.png)
@@ -83,3 +83,13 @@
 ### Filters
 ### Noise Filters
 
+### Compressors
+### Multiband Compressors
+### De-Essers
+### Limiters
+### Soft Clippers
+### Transient Processors
+### Expanders
+### Noise Gates
+### Dynamic EQs
+### Volume Envelope or LFO Tools
