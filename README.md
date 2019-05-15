@@ -52,17 +52,17 @@ _Give spaciousness, brightness, interesting artifacts, harmonies, modulation and
 * Chorus - _"occurs when individual sounds with approximately the same time, and very similar pitches converge and are perceived as one"_
 * Flanger - _"Flanging is an audio effect produced by mixing two identical signals together, one signal delayed by a small and gradually changing period, usually smaller than 20 milliseconds"_
 * Phaser - _"A phaser is an electronic sound processor used to filter a signal by creating a series of peaks and troughs in the frequency spectrum. The position of the peaks and troughs of the waveform being affected is typically modulated so that they vary over time, creating a sweeping effect."_
-* Hyper-Dimension
-* Pitcher
-* Pitch Shifter
-* Glitcher
-* Granulizer
-* Bitcrusher
-* Stereo Shaper/Enhancer
-* Autopan
-* Autofilter
-* Autotune
-* Vocoder
-* Other/Special/Multi-FX
+* Hyper/Dimension -_"Hyper/Dimension is a dual effect that pairs a simulated (but CPU-friendly) unison with four subtly modulated delay lines" (SerumFX)_ 
+* Glitcher - _simulated stutters, artifacts, transient faults_
+* Granulizer - _"Granular synthesis splits a wave sample into many small pieces (grains) that are looped/played-back according to the settings of the generator. The length and spacing of the grains can also be altered to achieve different tonal effects"_
+* Bitcrusher - _"a lo-fi (low fidelity) digital audio effect, which produces a distortion by the reduction of the resolution or bandwidth of digital audio data. The resulting quantization noise may produce a “warmer” sound impression, or a harsh one, depending on the amount of reduction"_
+* Stereo Shaper/Enhancer - _controls the spaciousness and width of a sound. may introduce the Haas effect_
+* Autopan - auto modulated panning using pre-set patterns_
+* Autofilter - auto modulated filtering using pre-set patterns_
+* Pitch Shifter - _lowers or raises the original pitch of a sound_
+* Formant Shifter - _"Formants are the harmonic frequencies that occur in the human voice. They define the timbre and alter the perception of how a vocal has been performed (more from the diaphragm than from the throat, for example). Formant shifting does not affect the pitch or timing of a segment"_
+* Autotune - _auto tunes vocals/sound to the closest pitch of notes in a selected scale_
+* Vocoder - _"synthesizes a modulator (usually a voice) in the left channel of a stereo track with a carrier wave in the right channel to produce a modified version of the left channel"_
+* Other/Multi-FX
   * Midi (Cthulhu, Drum Sequencers)
-  * Lo-Fi (Vinyl Cracklers (IZotope))
+  * Vinyl Crackler
