@@ -44,7 +44,8 @@
 * Volume Envelope/LFOTool - _used for sidechaining and creative purposes_
 
 ## Modulate and enhance the good parts to taste
-_Give spaciousness, brightness, interesting artifacts, harmonies, modulation and processing to sound to enhance the listener's experience._
+![Image of Fruity Reverb 2](https://hostr.co/file/RqAXi93j2QEj/reverb2.png)
+>_Give spaciousness, brightness, interesting artifacts, harmonies, modulation and processing to sound to enhance the listener's experience._
 * Delay - _give echo characteristics_
 * Reverb - _simulate an ambient space_
 * Distortion/Overdrive - _square-ify_
