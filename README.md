@@ -7,6 +7,12 @@
 >3. _Depth = Volume/Amplitude & Ambience_
 
 # Use [generators](#generators) to produce sound.
+* [Raw Sounds](#raw-sounds)
+* [Sample Managers](#sample-managers)
+* [Romplers](#romplers)
+* [Samplers](#samplers)
+* [Sample Players](#sample-players)
+* [Midi & Utilities](#midi-&-utilities)
 
 # Use [effects](#effects) to:
 * [Analyze the sound](#analyze-the-sound)
