@@ -98,7 +98,7 @@
 ### Romplers
 > _"a rompler is an electronic music instrument that plays pre-fabricated sounds based on audio samples. In contrast to samplers, romplers do not record audio and have limited or no capability for generating original sounds. The term rompler is a portmanteau of the terms ROM and sampler"_
 ### Samplers
-> _can load, play and mess with audio files. usually have built-in ADSR and FX modules_
+> _can load, play and mess with audio files. usually have built-in ADSR, looping functions and FX modules_
 ### Sample Players
 > _libraries of sampled instruments_
 ### Synthesizers
