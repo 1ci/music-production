@@ -1,10 +1,10 @@
 # Music Production Tools & Best Practices
 ![Image of mixing in stereo](https://hostr.co/file/KibZkoHqIUkJ/blog_studio_basics_mixing_stereo_hero.jpg)
 
->Think of sound as 3-dimensional:
->1. Height = Frequency Coverage (Timbre/Harmonics)
->2. Width = Stereo Field & Panning
->3. Depth = Volume & Ambience
+>_Think of sound as 3-dimensional:_
+>1. _Height = Frequency Coverage (Timbre/Harmonics)_
+>2. _Width = Stereo Field & Panning_
+>3. _Depth = Volume & Ambience_
 
 # Use effects to:
 * [Analyze the sound](#analyze-the-sound)
