@@ -28,7 +28,7 @@
   * Mid EQ - _in the center of a stereo image (mono)_
   * Side EQ - _in the sides of the stereo field. eliminate phasing issues by high-passing._
 * Filter - _a form of pre-set EQ with more limited and focused control_
-* Real-Time Filter - _can build noise profiles and subtract noise from the signal in realtime_
+* Noise Filter - _can build noise profiles and subtract noise from the signal. some plugins such as ReaFIR can do it in realtime_
 
 ## Balance the dynamics
 ![Image of a compressor](https://hostr.co/file/1hDVQgRTfTNN/comp.png)
