@@ -77,6 +77,8 @@
 # Generators
 ### Raw Sounds
 > _drum kits, samples, loops, fx, noise, vox, ad libs_
+### Sample Managers
+> _makes your entire sample library searchable and more organized. might provide access to a cloud service of samples_
 ### Romplers
 > _"a rompler is an electronic music instrument that plays pre-fabricated sounds based on audio samples. In contrast to samplers, romplers do not record audio and have limited or no capability for generating original sounds. The term rompler is a portmanteau of the terms ROM and sampler"_
 ### Samplers
