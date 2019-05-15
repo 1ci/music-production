@@ -42,7 +42,7 @@
 
 ## Make corrections
 ![Image of FL Studio's Edison](https://hostr.co/file/TVgiClfdKHOn/FL64_Xpr5ErVrly.png)
->_Fade in/out. Declick in/out. Normalize. Reverse. Blur. Fine-pitch corrections. Any edits on a small scale.
+>_Fade in/out. Declick in/out. Normalize. Reverse. Blur. Fine-pitch corrections. Any edits on a small scale._
 * Audio Editors - _tinker with audio files_
   * Pitch Correction (Melodyne, Newtone)
 
