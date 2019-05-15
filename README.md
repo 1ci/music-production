@@ -42,32 +42,32 @@
 * [Expander](#expanders) - _an inverse compressor. expands the volume when sound hits its set threshold._
 * [Noise Gate](#noise-gates) - _allows for sound to come through only if its volume surpasses the set threshold_
 * [Dynamic EQ](#dynamic-eqs) - _side-chained multiband compressor_
-* [Volume Envelope or LFO Tools](#volume-envelope-or-lfo-tools) - _used for sidechaining and creative purposes_
+* [Volume Envelope/LFO Tools](#volume-envelope-or-lfo-tools) - _used for sidechaining and creative purposes_
 
 ## Modulate and enhance the good parts to taste
 ![Image of Fruity Reverb 2](https://hostr.co/file/RqAXi93j2QEj/reverb2.png)
 >_Give spaciousness, brightness, interesting artifacts, harmonies, modulation and processing to sound to enhance the listener's experience._
-* Delay - _give echo characteristics_
-* Reverb - _simulate an ambient space_
-* Distortion/Overdrive - _square-ify_
-* Saturation - _introduce a subtle set of harmonics to give warmth and presence. run hot to increase perceived volume_
-* Harmonizer - _generates perfect fifths_
-* Exciter - _pre-set MB compressor, EQ, saturator and probably a couple of other things into one meant to brighten up your sound_
-* Chorus - _"occurs when individual sounds with approximately the same time, and very similar pitches converge and are perceived as one"_
-* Flanger - _"Flanging is an audio effect produced by mixing two identical signals together, one signal delayed by a small and gradually changing period, usually smaller than 20 milliseconds"_
-* Phaser - _"A phaser is an electronic sound processor used to filter a signal by creating a series of peaks and troughs in the frequency spectrum. The position of the peaks and troughs of the waveform being affected is typically modulated so that they vary over time, creating a sweeping effect."_
-* Hyper/Dimension -_"Hyper/Dimension is a dual effect that pairs a simulated (but CPU-friendly) unison with four subtly modulated delay lines" (SerumFX)_ 
-* Glitcher - _simulated stutters, artifacts, transient faults_
-* Granulizer - _"Granular synthesis splits a wave sample into many small pieces (grains) that are looped/played-back according to the settings of the generator. The length and spacing of the grains can also be altered to achieve different tonal effects"_
-* Bitcrusher - _"a lo-fi (low fidelity) digital audio effect, which produces a distortion by the reduction of the resolution or bandwidth of digital audio data. The resulting quantization noise may produce a “warmer” sound impression, or a harsh one, depending on the amount of reduction"_
-* Stereo Shaper/Enhancer - _controls the spaciousness and width of a sound. may introduce the Haas effect_
-* Autopan - auto modulated panning using pre-set patterns_
-* Autofilter - auto modulated filtering using pre-set patterns_
-* Pitch Shifter - _lowers or raises the original pitch of a sound_
-* Formant Shifter - _"Formants are the harmonic frequencies that occur in the human voice. They define the timbre and alter the perception of how a vocal has been performed (more from the diaphragm than from the throat, for example). Formant shifting does not affect the pitch or timing of a segment"_
-* Autotune - _auto tunes vocals/sound to the closest pitch of notes in a selected scale_
-* Vocoder - _"synthesizes a modulator (usually a voice) in the left channel of a stereo track with a carrier wave in the right channel to produce a modified version of the left channel"_
-* Other/Multi-FX
+* [Delay](#delays) - _give echo characteristics_
+* [Reverb](#reverbs) - _simulate an ambient space_
+* [Distortion/Overdrive](#distortion) - _square-ify_
+* [Saturation](#saturation) - _introduce a subtle set of harmonics to give warmth and presence. run hot to increase perceived volume_
+* [Harmonizer](#harmonizers) - _generates perfect fifths_
+* [Exciter](#exciters) - _pre-set MB compressor, EQ, saturator and probably a couple of other things into one meant to brighten up your sound_
+* [Chorus](#chorus) - _"occurs when individual sounds with approximately the same time, and very similar pitches converge and are perceived as one"_
+* [Flanger](#flangers) - _"Flanging is an audio effect produced by mixing two identical signals together, one signal delayed by a small and gradually changing period, usually smaller than 20 milliseconds"_
+* [Phaser](#phasers) - _"A phaser is an electronic sound processor used to filter a signal by creating a series of peaks and troughs in the frequency spectrum. The position of the peaks and troughs of the waveform being affected is typically modulated so that they vary over time, creating a sweeping effect."_
+* [Hyper/Dimension](#hyper-dimension) -_"Hyper/Dimension is a dual effect that pairs a simulated (but CPU-friendly) unison with four subtly modulated delay lines" (SerumFX)_ 
+* [Glitcher](#glitchers) - _simulated stutters, artifacts, transient faults_
+* [Granulizer](#granulizers) - _"Granular synthesis splits a wave sample into many small pieces (grains) that are looped/played-back according to the settings of the generator. The length and spacing of the grains can also be altered to achieve different tonal effects"_
+* [Bitcrusher](#bitcrushers) - _"a lo-fi (low fidelity) digital audio effect, which produces a distortion by the reduction of the resolution or bandwidth of digital audio data. The resulting quantization noise may produce a “warmer” sound impression, or a harsh one, depending on the amount of reduction"_
+* [Stereo Shaper/Enhancer](#stereo-shapers) - _controls the spaciousness and width of a sound. may introduce the Haas effect_
+* [Autopan](#autopan) - auto modulated panning using pre-set patterns_
+* [Autofilter](#autofilters) - auto modulated filtering using pre-set patterns_
+* [Pitch Shifter](#pitch-shifters) - _lowers or raises the original pitch of a sound_
+* [Formant Shifter](#formant-shifters) - _"Formants are the harmonic frequencies that occur in the human voice. They define the timbre and alter the perception of how a vocal has been performed (more from the diaphragm than from the throat, for example). Formant shifting does not affect the pitch or timing of a segment"_
+* [Autotune](#autotune) - _auto tunes vocals/sound to the closest pitch of notes in a selected scale_
+* [Vocoder](#vocoders) - _"synthesizes a modulator (usually a voice) in the left channel of a stereo track with a carrier wave in the right channel to produce a modified version of the left channel"_
+* [Other/Multi-FX](#other-or-multifx)
   * Time/Pitch/Volume Modulators - _Gross Beat, Half-time_
   * Vinyl Crackler - _makes your sound more lo-fi and vintage_
   * Voice Changer - _a type of formant shifter? i haven't found any vsts yet but it would be cool to look into_
@@ -93,3 +93,25 @@
 ### Noise Gates
 ### Dynamic EQs
 ### Volume Envelope or LFO Tools
+
+### Delays
+### Reverbs
+### Distortion
+### Saturation
+### Harmonizers
+### Exciters
+### Chorus
+### Flangers
+### Phasers
+### Hyper-Dimension
+### Glitchers
+### Granulizers
+### Bitcrushers
+### Stereo Shapers
+### Autopan
+### Autofilters
+### Pitch Shifters
+### Formant Shifters
+### Autotune
+### Vocoders
+### Other or MultiFX
