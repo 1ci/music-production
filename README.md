@@ -99,6 +99,7 @@
   * [r/FreeSounds](https://www.reddit.com/r/FreeSounds/)
   * [r/FreeLoops](https://www.reddit.com/r/FreeLoops/)
   * [r/SFXLibraries](https://www.reddit.com/r/SFXLibraries/)
+  * [-tildae-'s drumkits](https://www.reddit.com/user/-tildae-/posts)
   * [Audioblocks](https://www.audioblocks.com/)
   * [Karoryfer Samples](https://www.karoryfer.com/karoryfer-samples)
   * [Freesound](https://freesound.org/)
