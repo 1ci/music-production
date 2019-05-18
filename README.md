@@ -130,7 +130,7 @@
 * [ADSR Sample Manager](https://www.adsrsounds.com/product/software/adsr-sample-manager/)
 * [Loopcloud Sample Manager](https://www.loopcloud.net/)
 ### Samplers
-> _can load, play and mess with audio files. usually have built-in ADSR, looping functions and FX modules_
+> _can load and play audio files in different ways. for ex. some have ADSR, looping functions and FX modules that operate on the sample_
 ### Romplers
 > _"a rompler is an electronic music instrument that plays pre-fabricated sounds based on audio samples. In contrast to samplers, romplers do not record audio and have limited or no capability for generating original sounds. The term rompler is a portmanteau of the terms ROM and sampler"_
 ### Sample Players
