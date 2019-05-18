@@ -93,7 +93,7 @@
 # Generators
 ### Raw Materials
 > _drum kits, midi, presets, samples, loops, sfx, vox_
-* Free
+* Free (maybe) (always double check if they're not pirated / royalty free)
   * [r/Drumkits](https://www.reddit.com/r/Drumkits/)
   * [r/Samples](https://www.reddit.com/r/Samples/)
   * [r/FreeSounds](https://www.reddit.com/r/FreeSounds/)
