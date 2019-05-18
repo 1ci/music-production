@@ -9,8 +9,8 @@
 # Use [generators](#generators) to produce sound.
 * [Raw Materials](#raw-materials)
 * [Sample Managers](#sample-managers)
-* [Romplers](#romplers)
 * [Samplers](#samplers)
+* [Romplers](#romplers)
 * [Sample Players](#sample-players)
 * [Synthesizers](#synthesizers)
 * [Midi & Utilities](#midi-and-utilities)
@@ -129,10 +129,10 @@
 * [Organizing Your Sample Library](https://www.reddit.com/r/edmproduction/comments/22c6e7/organizing_your_sound_library_extensive/)
 * [ADSR Sample Manager](https://www.adsrsounds.com/product/software/adsr-sample-manager/)
 * [Loopcloud Sample Manager](https://www.loopcloud.net/)
-### Romplers
-> _"a rompler is an electronic music instrument that plays pre-fabricated sounds based on audio samples. In contrast to samplers, romplers do not record audio and have limited or no capability for generating original sounds. The term rompler is a portmanteau of the terms ROM and sampler"_
 ### Samplers
 > _can load, play and mess with audio files. usually have built-in ADSR, looping functions and FX modules_
+### Romplers
+> _"a rompler is an electronic music instrument that plays pre-fabricated sounds based on audio samples. In contrast to samplers, romplers do not record audio and have limited or no capability for generating original sounds. The term rompler is a portmanteau of the terms ROM and sampler"_
 ### Sample Players
 > _libraries of sampled instruments_
 ### Synthesizers
