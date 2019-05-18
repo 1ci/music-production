@@ -91,8 +91,8 @@
   * Utilities - _envelopes, LFO, XYZ, peak controllers_
   
 # Generators
-### Raw Sounds/Midi/Presets
-> _drum kits, samples, loops, fx, noise, vox, ad libs, dogs, cats_
+### Raw Sounds
+> _drum kits, midi, presets, samples, loops, fx, noise, vox, ad libs, dogs, cats_
 * Free
   * [r/Drumkits](https://www.reddit.com/r/Drumkits/)
   * [r/Samples](https://www.reddit.com/r/Samples/)
