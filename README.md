@@ -6,7 +6,7 @@
 >2. _Width = Stereo Field & Panning_
 >3. _Depth = Volume/Amplitude & Ambience_
 
-# Use [generators](#generators) to produce sound.
+# Use [generators](#generators) to produce sound out of:
 * [Raw Materials](#raw-materials)
 * [Sample Managers](#sample-managers)
 * [Samplers](#samplers)
