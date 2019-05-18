@@ -91,10 +91,40 @@
   * Utilities - _envelopes, LFO, XYZ, peak controllers_
   
 # Generators
-### Raw Sounds
+### Raw Sounds/Midi/Presets
 > _drum kits, samples, loops, fx, noise, vox, ad libs, dogs, cats_
+* Free
+  * [Reddit Drumkits](https://www.reddit.com/r/Drumkits/)
+  * [Reddit Samples](https://www.reddit.com/r/Samples/)
+  * [Audioblocks](https://www.audioblocks.com/)
+  * [Karoryfer Samples](https://www.karoryfer.com/karoryfer-samples)
+  * [Freesound](https://freesound.org/)
+  * [Sample Focus](https://samplefocus.com/)
+  * [freeSFX](https://www.freesfx.co.uk/)
+  * [Soundbible](http://soundbible.com/)
+  * [PacDV SFX](https://www.pacdv.com/sounds/index.html)
+  * [GRSites SFX](http://www.grsites.com/archive/sounds/)
+  * [Soundjay SFX](https://www.soundjay.com/)
+  * [Soundgator SFX](http://www.soundgator.com/)
+  * [99sounds SFX](http://99sounds.org/free-sound-effects/)
+  * [Bird sounds](https://search.macaulaylibrary.org/catalog?mediaType=a)
+  * [Soundshock](https://www.soundshockaudio.com/free-downloads-main/)
+  * [Echo Sound Works](https://www.echosoundworks.com/free-downloads)
+  * [Bass Gorilla](https://bassgorilla.com/free-serum-presets/)
+* Paid/Services
+  * [Zenhiser](http://www.zenhiser.com/)
+  * [Loopcloud](https://www.loopcloud.net/)
+  * [Sounds by NI](https://sounds.com/)
+  * [Noiiz](https://www.noiiz.com/)
+  * [Soundsnap](https://www.soundsnap.com/)
+  * [Audiomicro](https://www.audiomicro.com/)
+  * [Splice Sounds](https://splice.com/features/sounds)
+
 ### Sample Managers
 > _make your entire sample library searchable and more organized. might provide access to a cloud service of samples_
+* [Organizing Your Sample Library](https://www.reddit.com/r/edmproduction/comments/22c6e7/organizing_your_sound_library_extensive/)
+* [ADSR Sample Manager](https://www.adsrsounds.com/product/software/adsr-sample-manager/)
+* [Loopcloud Sample Manager](https://www.loopcloud.net/)
 ### Romplers
 > _"a rompler is an electronic music instrument that plays pre-fabricated sounds based on audio samples. In contrast to samplers, romplers do not record audio and have limited or no capability for generating original sounds. The term rompler is a portmanteau of the terms ROM and sampler"_
 ### Samplers
@@ -111,7 +141,7 @@
 ### Stereo Imagers
 ### Loudness Meters
 ### Oscilloscopes
-### Vectorscope
+### Vectorscopes
 
 ### Equalizers
 ### Filters
