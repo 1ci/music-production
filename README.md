@@ -93,6 +93,8 @@
 # Generators
 ### Raw Materials
 > _drum kits, midi, presets, samples, loops, sfx, vox_
+
+> [What is the legality of downloading drum kits for free?](https://www.reddit.com/r/makinghiphop/comments/akkglt/what_is_the_legality_of_downloading_drum_kits_for/ef6ods4?utm_source=share&utm_medium=web2x)
 * Free (maybe) (always double check if they're pirated / not royalty free)
   * [r/Drumkits](https://www.reddit.com/r/Drumkits/)
   * [r/Samples](https://www.reddit.com/r/Samples/)
@@ -115,6 +117,7 @@
   * [Soundshock](https://www.soundshockaudio.com/free-downloads-main/)
   * [Echo Sound Works](https://www.echosoundworks.com/free-downloads)
   * [Bass Gorilla](https://bassgorilla.com/free-serum-presets/)
+  * [Converse Sample Library](https://www.conversesamplelibrary.com/)
 * Paid/Services
   * [Splice Sounds](https://splice.com/features/sounds)
   * [Sounds by NI](https://sounds.com/)
