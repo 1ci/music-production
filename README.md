@@ -92,7 +92,7 @@
   
 # Generators
 ### Raw Sounds
-> _drum kits, midi, presets, samples, loops, fx, noise, vox, ad libs, dogs, cats_
+> _drum kits, midi, presets, samples, loops, sfx, vox_
 * Free
   * [r/Drumkits](https://www.reddit.com/r/Drumkits/)
   * [r/Samples](https://www.reddit.com/r/Samples/)
