@@ -7,7 +7,7 @@
 >3. _Depth = Volume/Amplitude & Ambience_
 
 # Use [generators](#generators) to produce sound.
-* [Raw Sounds](#raw-sounds)
+* [Raw Materials](#raw-materials)
 * [Sample Managers](#sample-managers)
 * [Romplers](#romplers)
 * [Samplers](#samplers)
@@ -91,7 +91,7 @@
   * Utilities - _envelopes, LFO, XYZ, peak controllers_
   
 # Generators
-### Raw Sounds
+### Raw Materials
 > _drum kits, midi, presets, samples, loops, sfx, vox_
 * Free
   * [r/Drumkits](https://www.reddit.com/r/Drumkits/)
