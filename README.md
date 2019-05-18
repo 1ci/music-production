@@ -94,8 +94,11 @@
 ### Raw Sounds/Midi/Presets
 > _drum kits, samples, loops, fx, noise, vox, ad libs, dogs, cats_
 * Free
-  * [Reddit Drumkits](https://www.reddit.com/r/Drumkits/)
-  * [Reddit Samples](https://www.reddit.com/r/Samples/)
+  * [r/Drumkits](https://www.reddit.com/r/Drumkits/)
+  * [r/Samples](https://www.reddit.com/r/Samples/)
+  * [r/FreeSounds](https://www.reddit.com/r/FreeSounds/)
+  * [r/FreeLoops](https://www.reddit.com/r/FreeLoops/)
+  * [r/SFXLibraries](https://www.reddit.com/r/SFXLibraries/)
   * [Audioblocks](https://www.audioblocks.com/)
   * [Karoryfer Samples](https://www.karoryfer.com/karoryfer-samples)
   * [Freesound](https://freesound.org/)
