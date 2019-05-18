@@ -115,13 +115,14 @@
   * [Echo Sound Works](https://www.echosoundworks.com/free-downloads)
   * [Bass Gorilla](https://bassgorilla.com/free-serum-presets/)
 * Paid/Services
-  * [Zenhiser](http://www.zenhiser.com/)
-  * [Loopcloud](https://www.loopcloud.net/)
+  * [Splice Sounds](https://splice.com/features/sounds)
   * [Sounds by NI](https://sounds.com/)
   * [Noiiz](https://www.noiiz.com/)
+  * [Zenhiser](http://www.zenhiser.com/)
+  * [Loopcloud](https://www.loopcloud.net/)
   * [Soundsnap](https://www.soundsnap.com/)
   * [Audiomicro](https://www.audiomicro.com/)
-  * [Splice Sounds](https://splice.com/features/sounds)
+  
 
 ### Sample Managers
 > _make your entire sample library searchable and more organized. might provide access to a cloud service of samples_
