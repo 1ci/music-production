@@ -124,6 +124,8 @@
   * [Audiomicro](https://www.audiomicro.com/)
   * [Kingsway Music Library](https://www.kingswaymusiclibrary.com/)
   * [RawBeatz](https://rawbeatz.com/)
+  * [Soundoracle](https://soundoracle.net/)
+  * [HipHop Drum Samples](https://hiphopdrumsamples.com/collections/cookin-soul)
 
 ### Sample Managers
 > _make your entire sample library searchable and more organized. might provide access to a cloud service of samples_
