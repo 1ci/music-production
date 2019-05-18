@@ -123,6 +123,7 @@
   * [Soundsnap](https://www.soundsnap.com/)
   * [Audiomicro](https://www.audiomicro.com/)
   * [Kingsway Music Library](https://www.kingswaymusiclibrary.com/)
+  * [RawBeatz](https://rawbeatz.com/)
 
 ### Sample Managers
 > _make your entire sample library searchable and more organized. might provide access to a cloud service of samples_
