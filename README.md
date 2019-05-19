@@ -11,7 +11,7 @@
 * [Sample Managers](#sample-managers)
 * [Samplers](#samplers)
 * [Romplers](#romplers)
-* [Sample Players](#sample-players)
+* [Multi-Sample Players](#multi-sample-players)
 * [Synthesizers](#synthesizers)
 * [Midi & Utilities](#midi-and-utilities)
 
@@ -140,7 +140,7 @@
 > _can load and play audio files in different ways. for ex. some have ADSR, looping functions and FX modules that operate on the sample_
 ### Romplers
 > _"a rompler is an electronic music instrument that plays pre-fabricated sounds based on audio samples. In contrast to samplers, romplers do not record audio and have limited or no capability for generating original sounds. The term rompler is a portmanteau of the terms ROM and sampler"_
-### Sample Players
+### Multi-Sample Players
 > _libraries of sampled instruments_
 ### Synthesizers
 > _"an electronic musical instrument that generates audio signals that may be converted to sound. Synthesizers may imitate traditional musical instruments such as piano, flute, vocals, or natural sounds such as ocean waves; or generate novel electronic timbres"_
