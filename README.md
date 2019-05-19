@@ -138,6 +138,12 @@
 * [Loopcloud Sample Manager](https://www.loopcloud.net/)
 ### Samplers
 > _can load and play audio files in different ways. for ex. some have ADSR, looping functions and FX modules that operate on the sample_
+* [Nuance](http://www.newsonicarts.com/html/nuance.php)
+* [TAL Sampler](https://tal-software.com/products/tal-sampler)
+* [TX16Wx](https://www.tx16wx.com/)
+* [Crossfade Loop Synth](https://www.expert-sleepers.co.uk/xfadelooper.html)
+* [Morgana](https://www.112db.com/plugins/instruments/morgana/)
+* [Serato Sample](https://serato.com/sample)
 ### Romplers
 > _"a rompler is an electronic music instrument that plays pre-fabricated sounds based on audio samples. In contrast to samplers, romplers do not record audio and have limited or no capability for generating original sounds. The term rompler is a portmanteau of the terms ROM and sampler"_
 ### Multi-Sample Players
