@@ -138,6 +138,7 @@
 * [Loopcloud Sample Manager](https://www.loopcloud.net/)
 ### Samplers
 > _can load and play audio files in different ways. for ex. some have ADSR, looping functions and FX modules that operate on the sample_
+* [Grace](http://www.onesmallclue.com/plugin/grace/)
 * [Nuance](http://www.newsonicarts.com/html/nuance.php)
 * [TAL Sampler](https://tal-software.com/products/tal-sampler)
 * [TX16Wx](https://www.tx16wx.com/)
