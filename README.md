@@ -1,4 +1,3 @@
-# Ici's Music Production Tools
 ![Image of mixing in stereo](https://hostr.co/file/KibZkoHqIUkJ/blog_studio_basics_mixing_stereo_hero.jpg)
 
 >_Think of sound as 3-dimensional:_
