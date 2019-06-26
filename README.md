@@ -7,7 +7,7 @@
 >3. _Depth = Volume/Amplitude & Ambience_
 
 # Use [generators](#generators) to produce sound out of:
-* [Raw Materials](#raw-materials)
+* [Raw Audio](#raw-audio)
 * [Sample Managers](#sample-managers)
 * [Samplers](#samplers)
 * [Romplers](#romplers)
@@ -91,7 +91,7 @@
   * Utilities - _envelopes, LFO, XYZ, peak controllers_
   
 # Generators
-### Raw Materials
+### Raw Audio
 > _drum kits, midi, presets, samples, loops, sfx, vox_
 
 > [What is the legality of downloading drum kits for free?](https://www.reddit.com/r/makinghiphop/comments/akkglt/what_is_the_legality_of_downloading_drum_kits_for/ef6ods4?utm_source=share&utm_medium=web2x)
