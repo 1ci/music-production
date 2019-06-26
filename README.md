@@ -24,7 +24,7 @@
 ## Analyze the sound
 ![Image of a spectrum analyzer](https://hostr.co/file/NNbPRVs7K0FK/voxengo.jpg)
 >_Figure out where, how and why it needs to sit in the mix._
-* [Spectrum Analyzer](#spectrum-analyzers)
+* [Spectrum Analyzer](#spectrum-analyzer)
 * [Stereo Imager](#stereo-imagers)
 * [Loudness Meter](#loudness-meters)
 * [Oscilloscope](#oscilloscopes)
