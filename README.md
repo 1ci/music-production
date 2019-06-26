@@ -33,7 +33,7 @@
 ## Filter out the junk
 ![Image of Fruity Param EQ2](https://hostr.co/file/a7BSCMEHMAIR/parameq2.png)
 >_Get rid of what you don't (want to) / **can't** hear. Control resonant peaks / unpleasant frequencies. Allow for space for other sounds so that they don't clash and clutter up the mix._
-* [Equalizer](#equalizers) - _controls the volume of distributed frequencies_
+* [Equalizer](#equalizer) - _controls the volume of distributed frequencies_
   * Mid EQ - _in the center of a stereo image (mono)_
   * Side EQ - _in the sides of the stereo field. eliminate phasing issues by high-passing._
   * Regular vs Linear Phase EQ - _"Linear-phase EQ is essentially a highly-accurate, “surgical” EQ. Regular EQ's have phase shift between the different bands"_
