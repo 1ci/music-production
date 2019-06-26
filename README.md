@@ -132,7 +132,7 @@
   * [HipHop Drum Samples](https://hiphopdrumsamples.com/collections/cookin-soul)
 
 ### Sample Managers
-> _make your entire sample library searchable and more organized. might provide access to a cloud service of samples_
+> _index your entire sample library and make it more organized. might provide access to a cloud service of samples_
 * [Organizing Your Sample Library](https://www.reddit.com/r/edmproduction/comments/22c6e7/organizing_your_sound_library_extensive/)
 * [ADSR Sample Manager](https://www.adsrsounds.com/product/software/adsr-sample-manager/)
 * [Loopcloud Sample Manager](https://www.loopcloud.net/)
