@@ -155,45 +155,45 @@
 > _drum sequencers, arpeggiators, chord builders, controllers, etc_
 
 # Effects
-### Spectrum Analyzers
-### Stereo Imagers
-### Loudness Meters
-### Oscilloscopes
-### Vectorscopes
+### Spectrum Analyzer
+### Stereo Imager
+### Loudness Meter
+### Oscilloscope
+### Vectorscope
 
-### Equalizers
-### Filters
-### Noise Filters
+### Equalizer
+### Filter
+### Noise Filter
 
-### Compressors
-### Multiband Compressors
-### De-Essers
-### Limiters
-### Soft Clippers
-### Transient Processors
-### Expanders
-### Noise Gates
-### Dynamic EQs
+### Compressor
+### Multiband Compressor
+### De-Esser
+### Limiter
+### Soft Clipper
+### Transient Processor
+### Expander
+### Noise Gate
+### Dynamic EQ
 ### Volume Envelope or LFO Tools
 
-### Delays
-### Reverbs
+### Delay
+### Reverb
 ### Distortion
 ### Saturation
-### Harmonizers
-### Exciters
+### Harmonizer
+### Exciter
 ### Chorus
-### Flangers
-### Phasers
+### Flanger
+### Phaser
 ### Hyper-Dimension
-### Glitchers
-### Granulizers
-### Bitcrushers
-### Stereo Shapers
+### Glitcher
+### Granulizer
+### Bitcrusher
+### Stereo Shaper
 ### Autopan
-### Autofilters
-### Pitch Shifters
-### Formant Shifters
+### Autofilter
+### Pitch Shifter
+### Formant Shifter
 ### Autotune
-### Vocoders
+### Vocoder
 ### Other or MultiFX
