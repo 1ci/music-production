@@ -62,7 +62,7 @@
 
 ## Enhance the good parts to taste
 ![Image of Fruity Reverb 2](https://hostr.co/file/RqAXi93j2QEj/reverb2.png)
->_Give spaciousness, brightness, interesting artifacts, harmonies, modulation and processing to sound to enhance the listener's experience._
+>_Give spaciousness, brightness, interesting artifacts, harmonies, modulation and processing to enrich the sound._
 * [Delay](#delays) - _give echo characteristics_
 * [Reverb](#reverbs) - _simulate an ambient space_
 * [Distortion/Overdrive](#distortion) - _square-ify_
