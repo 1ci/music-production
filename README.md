@@ -19,7 +19,7 @@
 * [Filter out the junk](#filter-out-the-junk)
 * [Make corrections](#make-corrections)
 * [Balance the dynamics](#balance-the-dynamics)
-* [Modulate and enhance the good parts to taste](#modulate-and-enhance-the-good-parts-to-taste)
+* [Enhance the good parts to taste](#enhance-the-good-parts-to-taste)
 
 ## Analyze the sound
 ![Image of a spectrum analyzer](https://hostr.co/file/NNbPRVs7K0FK/voxengo.jpg)
@@ -60,7 +60,7 @@
 * [Dynamic EQ](#dynamic-eqs) - _side-chained multiband compressor_
 * [Volume Envelope/LFO Tools](#volume-envelope-or-lfo-tools) - _used for sidechaining and creative purposes_
 
-## Modulate and enhance the good parts to taste
+## Enhance the good parts to taste
 ![Image of Fruity Reverb 2](https://hostr.co/file/RqAXi93j2QEj/reverb2.png)
 >_Give spaciousness, brightness, interesting artifacts, harmonies, modulation and processing to sound to enhance the listener's experience._
 * [Delay](#delays) - _give echo characteristics_
