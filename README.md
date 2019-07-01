@@ -146,6 +146,9 @@
 * [Serato Sample](https://serato.com/sample)
 ### Romplers
 > _"a rompler is an electronic music instrument that plays pre-fabricated sounds based on audio samples. In contrast to samplers, romplers do not record audio and have limited or no capability for generating original sounds. The term rompler is a portmanteau of the terms ROM and sampler"_
+* [reFX Nexus](https://refx.com/nexus/)
+* [Spectrasonics Omnisphere](https://www.spectrasonics.net/products/omnisphere/)
+* [Camel Audio Alchemy]
 ### Multi-Sample Players
 > _libraries of sampled instruments_
 ### Synthesizers
